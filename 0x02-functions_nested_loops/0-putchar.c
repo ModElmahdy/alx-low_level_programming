@@ -2,7 +2,7 @@
 /**
  *main - entry point
  *Description: prints _putchar using putchar prototype
- * REturn : Always 0 (Success)
+ * Return : Always 0 (Success)
 */
 int main(void)
 {
